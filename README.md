@@ -26,4 +26,10 @@ This is my npm install for this work. Used it since it'll appear from it and all
 
 You can use this as a Schol Information/Management System and can change to for the backend and full stack if needed. I make this simple front end website so that you don't have to worry about doing full stack or so.
 
+Use this link on the website to the video on Youtube to find the resolve error if any issues somehow: 
+https://www.youtube.com/watch?v=vn97BdYx2K8
+https://www.youtube.com/watch?v=DMJ9_wY7Z1o
+https://www.youtube.com/watch?v=n6BzliZA_R0
+
+If anything, you can email me at fawwazfaizal767@gmail.com for any information if needed. Without further ado, thank you for seeing this :)
 
