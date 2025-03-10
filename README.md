@@ -7,19 +7,27 @@ Project name and all then the framework to select React. Then stick to JavaScrip
 For npm install for this project, use this following below what i used for ReactJS(can use and change if needed somehow): 
 
 npm install react-router-dom styled-components @emotion/react @emotion/styled
+
 npm install @mui/material @emotion/react @emotion/styled
+
 npm install @mui/icons-material
 
 npm install react-datepicker
+
 npm install primereact primeicons
+
 npm install recharts
+
 npm install react-chartjs-2 chart.js
 
 npm install bootstrap
+
 npm install react-bootstrap
+
 npm install react-bootstrap bootstrap(alternative)
 
 npm install formik
+
 npm install yup
 
 This is my npm install for this work. Used it since it'll appear from it and all
