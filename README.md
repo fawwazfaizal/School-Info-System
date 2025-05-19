@@ -32,7 +32,7 @@ npm install yup
 
 This is my npm install for this work. Used it since it'll appear from it and all
 
-You can use this as a Schol Information/Management System and can change to for the backend and full stack if needed. I make this simple front end website so that you don't have to worry about doing full stack or so.
+You can use this as a School Information/Management System and can change to for the backend and full stack if needed. I make this simple front end website so that you don't have to worry about doing full stack or so.
 
 Use this link on the website to the video on Youtube to find the resolve error if any issues somehow: 
 
